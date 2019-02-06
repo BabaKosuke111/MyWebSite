@@ -1,0 +1,1 @@
+CREATE TABLE user (id SERIAL PRIMARY KEY,user_name varchar(255) not null,email_address varchar(255) not null,password varchar(255) not null)

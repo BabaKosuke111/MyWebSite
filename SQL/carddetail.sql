@@ -1,0 +1,1 @@
+CREATE TABLE card_detail (id SERIAL PRIMARY KEY,card_name varchar(255) not null,card_cost int(11) not null,card_effect text not null,file_name varchar(255) not null,class_id int(11) not null)

@@ -1,0 +1,1 @@
+CREATE TABLE class (id SERIAL PRIMARY KEY,class_name varchar(255) not null)
