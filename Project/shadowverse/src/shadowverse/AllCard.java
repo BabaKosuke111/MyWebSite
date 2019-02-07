@@ -21,13 +21,13 @@ import dao.CardDetailDAO;
 public class AllCard extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
-    /**
-     * @see HttpServlet#HttpServlet()
-     */
-    public AllCard() {
-        super();
-        // TODO Auto-generated constructor stub
-    }
+	/**
+	 * @see HttpServlet#HttpServlet()
+	 */
+	public AllCard() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
 
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
@@ -42,13 +42,13 @@ public class AllCard extends HttpServlet {
 
 			request.setAttribute("AllCardList", AllCardList);
 
-		RequestDispatcher dispatcher = request.getRequestDispatcher("/WEB-INF/jsp/allcard.jsp");
-		dispatcher.forward(request, response);
-	} catch (Exception e) {
-		e.printStackTrace();
-		session.setAttribute("errorMessage", e.toString());
-		response.sendRedirect("Error");
-	}
+			RequestDispatcher dispatcher = request.getRequestDispatcher("/WEB-INF/jsp/allcard.jsp");
+			dispatcher.forward(request, response);
+		} catch (Exception e) {
+			e.printStackTrace();
+			session.setAttribute("errorMessage", e.toString());
+			response.sendRedirect("Error");
+		}
 	}
 
 	/**
@@ -65,7 +65,7 @@ public class AllCard extends HttpServlet {
 			CardDetailDAO carddetaildao = new CardDetailDAO();
 			List<CardDetailDataBeans>  AllCardList = carddetaildao.findAllCardSearch(cardName, className);
 
-		 	request.setAttribute("AllCardList",AllCardList);
+			request.setAttribute("AllCardList",AllCardList);
 
 			RequestDispatcher dispatcher = request.getRequestDispatcher("/WEB-INF/jsp/allcard.jsp");
 			dispatcher.forward(request, response);
