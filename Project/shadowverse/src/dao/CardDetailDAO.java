@@ -23,7 +23,7 @@ public class CardDetailDAO {
 
 			// SELECT文を準備
 			// TODO: 未実装：管理者以外を取得するようSQLを変更する
-			String sql = "select * from card_detail join class on card_detail.class_id=class.id ";
+			String sql = "select * from card_detail join class on card_detail.class_id=class.id order by class.id ";
 
 
 			// SELECTを実行し、結果表を取得
