@@ -1,0 +1,106 @@
+"id","card_name","card_cost","card_effect","file_name","class_id"
+1,"ゴブリン",1,"効果なし","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/24388_1.png",1
+2,"バハムート",10,"他のフォロワーすべてを破壊する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/46338_1.png",1
+3,"唯我の絶傑・マゼルベイン",6,"自分のデッキに重複するカード（唯我の絶傑・マゼルベインを除く）がないなら、このバトル中、自分のリーダーは「自分のターン終了時、自分の場のフォロワーが1体なら、ランダムな自分のフォロワー1体を+2/+2して、ランダムな相手のフォロワー1体に2ダメージと相手のリーダーに2ダメージ」を持つ。リーダーはこの能力を重複して持たない。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/118992_1.png",1
+4,"不思議の探求者・アリス",4,"自分の手札のニュートラル・フォロワーすべてと自分の他のニュートラル・フォロワーすべてを+1/+0する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/57975_1.png",1
+5,"飢餓の絶傑・ギルネリーゼ",7,"自分のターン開始時、このターンが自分の10ターン目かそれ以降なら、自分と相手はカードを5枚引く。自分の他のフォロワーすべてを+2/+0する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/119004_1.png",1
+6,"フェアリー",1,"効果なし","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/26134_1.png",2
+7,"ロイヤルクリスタリア・ティア",1,"このターン中に（このカードを含めず）カードを2枚以上プレイしていたなら、クリスタリア・イヴ1枚を手札に加え、そのコストを3にする。
+4枚以上プレイしていたなら、コストを3にするのではなく、1にする。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/119948_1.png",2
+8,"インセクトキング",2,"ランダムな相手のフォロワー1体に「このターン中にカードをプレイした枚数（このカードも含める）」と同じダメージ。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/85176_1.png",2
+9,"フェアリードラゴン",2,"このバトル中に破壊された自分のフェアリーの数と同じだけ+1/+0する。（このバトル中に破壊された自分のフェアリーの数は0体）","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/60091_1.png",2
+10,"森の女王・リザ",3,"コスト最小のエルフ・フォロワーをランダムに1枚、自分のデッキから手札に加える。次の自分のターン開始時、コスト最大のエルフ・フォロワーをランダムに1枚、自分のデッキから手札に加える。
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/130850_1.png",2
+11,"エンシェントエルフ",3,"自分の他のフォロワーすべてを手札に戻し、戻したフォロワー1体につき+1/+1する。
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/23774_1.png",2
+12,"無窮の輝石・カーバンクル",4,"カーバンクルの煌めき4枚をデッキに加える。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/135539_1.png",2
+13,"導きの妖精姫・アリア",4,"フェアリーウィスプ1枚を手札に加える。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/83944_1.png",2
+14,"絢爛の紡ぎ手・コルワ",5," このバトル中、自分のリーダーは「自分のターン開始時、フィル1枚を手札に加える。直前の相手のターンに自分のリーダーが受けた合計ダメージが4以上なら、1枚ではなく2枚手札に加える」を持つ。リーダーはこの能力を重複して持たない。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/109308_1.png",2
+15,"神殺しの狩人・セルウィン",5,"このターン中に（このカードを含めず）カードを2枚以上プレイしていたなら、相手のフォロワー1体に4ダメージ。4枚以上プレイしていたなら、さらに、相手のフォロワーすべてに2ダメージ。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/109744_1.png",2
+16,"クリスタリアプリンセス・ティア",5,"クリスタリア・イヴ1体を出す。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/37381_1.png",2
+17,"森の巫女・パメラ",6,"自分のターン終了時、このターン中にカードを4枚以上プレイしていたなら、自分の他のフォロワーすべての攻撃力/体力を2倍にして、この能力を失う。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/134297_1.png",2
+18,"ホワイトヴァナラ",6,"自分のターン中、このフォロワーの攻撃力か体力が能力で+されたとき、進化する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/95642_1.png",2
+19,"ユグドラシル",6,"カードを2枚引く。その後他のフォロワーは疾走を持つ。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/94475_1.png",2
+20,"フェアリープリンセス",6,"フェアリーを手札が上限枚数になるまで加える。（上限は9枚）","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/21443_1.png",2
+21,"ビューティ&ビースト",6,"自分の他の手札が5枚以上なら、+2/+2する。自分の他の手札にニュートラル・カードが3枚以上あるなら、「このフォロワーへのフォロワー、スペル、アミュレットの能力によるダメージは0になり、このフォロワーは能力で破壊されない」を持つ。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/59853_1.png",2
+22,"カシオペア",6,"ランダムな相手のフォロワー1体に1ダメージ。これを「自分の他の手札の枚数」と同じだけ行う。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/68123_1.png",2
+23,"翠嵐の斧使い",6,"このバトル中、自分のリーダーは「自分のターン終了時、このターン中にカードを3枚以上プレイしていたなら、相手のリーダーに2ダメージ」を持つ。（翠嵐の斧使いの能力が複数働いた場合、リーダーは同じ能力を複数持つ）
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/106774_1.png",2
+24,"エルフクイーン",7,"自分のリーダーを「自分の墓場の枚数」と同じだけ回復して、自分の墓場を0にする。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/53177_1.png",2
+25,"ローズクイーン",8,"手札のフェアリーすべてを、薔薇の一撃に変身させる。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/22000_1.png",2
+26,"古き森の白狼",8,"次の自分のターン開始時、コスト最大のエルフ・カード（古き森の白狼を除く）をランダムに1枚、自分のデッキから手札に加え、そのコストを0にする。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/45869_1.png",2
+27,"深き森の異形",8,"相手のリーダーを攻撃したなら、相手のリーダーの体力が0になるようにダメージを与える。
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/53586_1.png",2
+28,"天喰らう異形",9,"自分のターン終了時、このターン中にカードを7枚以上プレイしていたなら、自分の手札のこのフォロワーを+7/+7する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/116549_1.png",2
+29,"不殺の絶傑・エズディア",10,"相手のリーダーの体力の最大値を6にする（現在値は6以下ならそのまま）。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/118997_1.png",2
+30,"キングエレファント",10,"このフォロワーは守護 を無視して攻撃できる。自分の他のフォロワーすべてを手札に戻す。自分の他の手札1枚につき+1/+1する。
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/68645_1.png",2
+31,"ナイト",1,"効果なし","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/26136_1.png",3
+32,"絶望の使者・セリア",5,"「自分の他のフォロワーの数」と同じだけ+1/+0する。自分の他のフォロワーすべてを手札に戻す。
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/94738_1.png",3
+33,"希望の戦術家・セリア",5,"シールドガーディアン1体とヘヴィーナイト1体を出す。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/94739_1.png",3
+34,"簒奪の絶傑・オクトリス",3," +2/+2して、「このフォロワーはEPを消費せず進化できる」を持つ。自分のPPを2回復。（1ターンに1体しか進化できない制限はある）","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/118995_1.png",3
+35,"白翼の戦神・アイテール",3,"「自分のPP最大値に+1した値」以下でコスト最大のロイヤル・フォロワーをランダムに1枚、自分のデッキから手札に加える。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/133673_1.png",3
+36,"シンデレラ",3,"自分の他のロイヤル・フォロワーが場に出たとき、このフォロワーを手札に戻す。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/58543_1.png",3
+37,"静かなる炎将・マーズ",3,"自分の他のロイヤル・フォロワーが場に出るたび、それは+0/+1されて、「交戦時 +1/+0する」を持つ。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/69870_1.png",3
+38,"円卓の騎士・ガウェイン",4,"自分の手札の指揮官・カードすべてのコストを-1する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/52781_1.png",3
+39,"戦場の歌姫・マグノリア",5,"自分のターン終了時、自分の兵士・フォロワーすべてを+1/+1する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/131034_1.png",3
+40,"ロイヤルセイバー・オーレリア",5,"「相手のフォロワーの数」と同じだけ+1/+0する。相手のフォロワーが3体以上なら、「相手の能力で選択できない」を持つ。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/23817_1.png",3
+41,"レヴィオンセイバー・アルベール",5,"「このフォロワーは、1ターンに2回攻撃できる」を持つ。ターン終了まで、このフォロワーへのダメージは0になる。
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/46598_1.png",3
+42,"バルバロッサ",5,"次の自分のターン開始時、バルバロッサ1枚を手札に加える。相手の場のフォロワーが2体以下なら、そのコストを8にする。3体以上なら、そのコストを2にする。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/68433_1.png",3
+43,"ダークセイバー・メリッサ",6,"相手の能力で選択できない。「自分の他のフォロワーの数」と同じだけ-1/-0する。「相手のフォロワーの数」と同じだけ+0/+1する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/84593_1.png",3
+44,"スパルタクス",6,"自分のターン終了時、兵士・フォロワーをランダムに2枚、自分のデッキから手札に加える。自分のデッキの下にある死神のカードを勝利のカードに変身させる。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/106696_1.png",3
+45,"鉄拳の獣戦士",6,"ロイヤル・フォロワー（鉄拳の獣戦士を除く）をランダムに1枚、自分のデッキから手札に加え、そのコストを-2する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/116556_1.png",3
+46,"海底都市王・乙姫",6,"乙姫お守り隊を場が上限枚数になるまで出す。（上限は5体）","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/22036_1.png",3
+47,"真紅の穿光・ゼタ",6," 自分の場と手札に不滅の群青・ベアトリクスがないなら、不滅の群青・ベアトリクス1枚を手札に加える。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/109898_1.png",3
+48,"不滅の群青・ベアトリクス",4,"「守護 を無視して攻撃できる」を持ち、自分のPPを6回復。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/109897_1.png",3
+49,"ツバキ",6,"攻撃力5以上の相手のフォロワー1体を破壊する。
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/21442_1.png",3
+50,"炎獅子の大将軍",8,"直接召喚 自分のターン開始時、このバトル中に破壊された自分のフォロワーが15体以上なら、このカードを1枚、自分のデッキから場に出す。自分の他のフォロワーすべてを+1/+1する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/135587_1.png",3
+51,"不滅の英雄・ローラン",7,"自分の場に不滅の聖剣・デュランダルがないなら、不滅の聖剣・デュランダル1つを出す。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/53355_1.png",3
+52,"騎士王・アーサー",8,"コスト2以下の、それぞれ名前の異なるロイヤル・フォロワーをランダムに1枚ずつ、自分のデッキから場が上限枚数になるまで出す。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/84815_1.png",3
+53,"スカイフォートレス",8,"自分の他のフォロワー1体を+3/+4する。そのフォロワーが兵士・フォロワーなら、守護 を持つ。指揮官・フォロワーなら、「交戦時 カードを1枚引く」を持つ。
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/96877_1.png",3
+54,"高潔なる騎士・レイサム",8,"このバトル中、自分のリーダーは、「自分のフォロワーが攻撃するとき、自分の場にナイトがいないなら、ナイト1体を出す」と、「自分の場に元のコスト1のフォロワーが出るたび、それは疾走 を持つ」を持つ。リーダーはこれらの能力を重複して持たない。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/108742_1.png",3
+55,"アレキサンダー",8,"このフォロワーは、相手のリーダーを攻撃できないが、相手のフォロワーを1ターンに14回攻撃できる。
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/38130_1.png",3
+56,"古の英雄",8,"このフォロワーは、カードの能力によって破壊されない。（攻撃によるダメージや、能力によるダメージでは破壊される）","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/59114_1.png",3
+57,"ジライヤ",9," 相手のフォロワーすべての攻撃力/体力を1/1にする。
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/120464_1.png",3
+58,"レジェンダリーファイター",2,"自分の他のフォロワーが進化したとき、このフォロワーは「1ターンに2回攻撃できる」を持つ。
+自分がスペルをプレイしたとき、このフォロワーは必殺 を持つ。
+自分がアミュレットをプレイしたとき、このフォロワーは突進 を持つ。
+自分のターン開始時、このフォロワーが「1ターンに2回攻撃できる」必殺 突進 を持つなら、+8/+8する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/109930_1.png",1
+59,"バイヴカハ",3,"ランダムな自分の他のフォロワー1体を+1/+0する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/85000_1.png",1
+60,"異界を統べる者",7,"相手のリーダーのクラスのベーシックカードの中から、ランダムに異なる2枚を手札に加え、それらのコストを-3する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/133672_1.png",1
+61,"マルドゥーク",7,"自分のリーダーは、「手札のフォロワーをプレイできない」と、「自分がスペルをプレイするたび、カードを1枚引く」と、「自分がアミュレットをプレイするたび、相手のリーダーに2ダメージ」を持つ。これらの能力は、このフォロワーが場を離れるとき失われる。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/95688_1.png",1
+62,"ガブリエル",7,"自分の他のフォロワー1体を+4/+3する。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/21575_1.png",1
+63,"サハクィエル",7,"手札のニュートラル・フォロワー1枚を場に出す。それは突進 と「自分のターン終了時、手札に戻る」を持つ。
+
+手札のニュートラル・フォロワー1枚を場に出す。それは突進 と「自分のターン終了時、手札に戻る」を持つ。
+
+","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/46619_1.png",1
+64,"ゾディアックデーモン",7,"手札の元のコスト7以下のフォロワー1枚を場に出し、それを破壊する。相手の場にフォロワーがいるならランダムな相手のフォロワー1体に、いないなら相手のリーダーに「そのフォロワーの攻撃力の値」と同じダメージ。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/67112_1.png",1
+65,"クロノス",8,"このバトル中、お互いのリーダーは「自分のターン終了時、「自分のフォロワーの最大攻撃力の値」と同じだけカードを引く」を持つ。リーダーはこの能力を重複して持たない。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/83266_1.png",1
+66,"ルシフェル",8,"自分のターン終了時、自分のリーダーを4回復。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/23773_1.png",1
+67,"オーディン",8,"相手のフォロワー1体か相手のアミュレット1つを消滅させる。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/37579_1.png",1
+68,"ロキ",8,"自分のリーダーは「次に自分のフォロワーのファンファーレ 能力（対象を選択する能力を除く）が働くとき、それをもう1回働かせる」を持つ。リーダーはこの能力を重複して持たない。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/68409_1.png",1
+69,"氷獄の王・サタン",9,"自分のデッキをコキュートスカード のデッキにする。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/135391_1.png",1
+70,"プロトバハムート",9,"自分のターン終了時、他のフォロワーすべてに3ダメージ。相手のリーダーに1ダメージ。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/108714_1.png",1
+71,"ダークエンジェル・オリヴィエ",9,"自分のEPを3ポイントにする。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/36723_1.png",1
+72,"イスラーフィール",9,"自分のリーダーを4回復。相手のリーダーと相手のフォロワーすべてに2ダメージ。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/52817_1.png",1
+73,"サタン",10,"自分のデッキをアポカリプスデッキにする。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/24473_1.png",1
+74,"ゼウス",10,"効果なし","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/52483_1.png",1
+75,"魔海の女王",10,"手札のニュートラル・カード（魔海の女王を除く）1枚と、ニュートラルでないカード1枚のコストを-5する。その後、それら以外の手札をすべて捨てる。","https://gamewith.akamaized.net/article_tools/shadowverse/gacha/59851_1.png",1
